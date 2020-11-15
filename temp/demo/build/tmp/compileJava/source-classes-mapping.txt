@@ -1,0 +1,28 @@
+se/sda/web/demo/HelloController.java
+ se.sda.web.demo.HelloController
+se/sda/web/demo/DemoApplication.java
+ se.sda.web.demo.DemoApplication
+se/sda/web/demo/Comment/CommentRepo.java
+ se.sda.web.demo.Comment.CommentRepo
+se/sda/web/demo/NewsArticle/NewsArticleRepo.java
+ se.sda.web.demo.NewsArticle.NewsArticleRepo
+se/sda/web/demo/Comment/Comment.java
+ se.sda.web.demo.Comment.Comment
+se/sda/web/demo/Comment/CommentController.java
+ se.sda.web.demo.Comment.CommentController
+se/sda/web/demo/Comment/CommentService.java
+ se.sda.web.demo.Comment.CommentService
+se/sda/web/demo/NewsArticle/NewsArticle.java
+ se.sda.web.demo.NewsArticle.NewsArticle
+se/sda/web/demo/NewsArticle/NewsArticleController.java
+ se.sda.web.demo.NewsArticle.NewsArticleController
+se/sda/web/demo/NewsArticle/NewsArticleService.java
+ se.sda.web.demo.NewsArticle.NewsArticleService
+se/sda/web/demo/Topic/TopicRepo.java
+ se.sda.web.demo.Topic.TopicRepo
+se/sda/web/demo/Topic/Topic.java
+ se.sda.web.demo.Topic.Topic
+se/sda/web/demo/Topic/TopicController.java
+ se.sda.web.demo.Topic.TopicController
+se/sda/web/demo/Topic/TopicService.java
+ se.sda.web.demo.Topic.TopicService
